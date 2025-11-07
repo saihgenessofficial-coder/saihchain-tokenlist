@@ -1,0 +1,17 @@
+{
+  "name": "SAIHCHAIN Genesis Token List",
+  "logoURI": "https://raw.githubusercontent.com/saihgenessofficial-coder/saihchain-tokenlist/main/saihcoin.png",
+  "keywords": ["saihchain", "saih", "genesis"],
+  "timestamp": "2025-11-07T00:00:00+00:00",
+  "version": { "major": 1, "minor": 0, "patch": 0 },
+  "tokens": [
+    {
+      "chainId": 777001,
+      "address": "0x08bD0056488D078D9F6038Eb0b0A6544bC1D539C",
+      "name": "SAIHCOIN",
+      "symbol": "SAIH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/saihgenessofficial-coder/saihchain-tokenlist/main/saihcoin.png"
+    }
+  ]
+}
