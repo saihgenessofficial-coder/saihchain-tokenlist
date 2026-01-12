@@ -1,17 +1,25 @@
 {
-  "name": "SAIHCHAIN Genesis Token List",
-  "logoURI": "https://raw.githubusercontent.com/saihgenessofficial-coder/saihchain-tokenlist/main/saihcoin.png",
-  "keywords": ["saihchain", "saih", "genesis"],
-  "timestamp": "2025-11-07T00:00:00+00:00",
-  "version": { "major": 1, "minor": 0, "patch": 1 },
+  "name": "SAIHCHAIN GENESIS Token List",
+  "logoURI": "https://saihchain.com/assets/tokens/saihcoin.png",
+  "keywords": ["saihchain", "saih", "genesis", "usdti", "usdt_internal"],
+  "timestamp": "2026-01-12T00:00:00+00:00",
+  "version": { "major": 1, "minor": 1, "patch": 0 },
   "tokens": [
     {
-      "chainId": 777001,
-      "address": "0x3d860e852E8f5F8B7e3100904985275DEB3ebc72",
+      "chainId": 7777001,
+      "address": "0x3c599DB3DD9cE3D264FcEd148a5fa90CBFBc2134",
       "name": "SAIHCOIN",
       "symbol": "SAIH",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/saihgenessofficial-coder/saihchain-tokenlist/main/saihcoin.png"
+      "logoURI": "https://saihchain.com/assets/tokens/saihcoin.png"
+    },
+    {
+      "chainId": 7777001,
+      "address": "0x1b5a253Ce1fC0F28Db30472Aa5073ACA1332aD6f",
+      "name": "USDT_INTERNAL",
+      "symbol": "USDTi",
+      "decimals": 6,
+      "logoURI": "https://saihchain.com/assets/tokens/usdti.png"
     }
   ]
 }
